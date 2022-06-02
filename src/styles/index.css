@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.numero{
+    background-color: rgb(15, 14, 14);
+    height: 100px;  
+    width: 100px;
+    color: white;
+    font-size: 500%;
+    display: flex;
+    justify-content: center;
+    border: solid 1px white;
+  }
+  
+  .todoslosnumeros{
+  
+    display: flex;
+    justify-content: center;
+  
+  }
